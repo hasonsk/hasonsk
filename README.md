@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ha-son-b632b226a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ha-son-b632b226a/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/hasonks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hasonks" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@sonha-learn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sonha-learn" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/https://www.youtube.com/@sonha-learn](https://www.youtube.com/channel/UCyU591-yGfdOyfMfgEa7JpQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sonha-learn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
